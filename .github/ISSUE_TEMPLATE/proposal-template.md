@@ -1,3 +1,12 @@
+---
+name: proposal template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # UBIP: (Fill Title)
 
 | No.     | Status  | Author    |
