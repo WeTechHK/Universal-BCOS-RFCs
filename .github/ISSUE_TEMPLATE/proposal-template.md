@@ -2,16 +2,16 @@
 name: proposal template
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: 'Stage: Proposal'
 assignees: ''
 
 ---
 
 # UBIP: (Fill Title)
 
-| No.     | Status  | Author    |
+| No.     | Stage  | Author    |
 | ------- | ------- | --------- |
-| (Blank) | (Blank) | Fill Name |
+| (Blank) | Proposal | Fill Name |
 
 ## Overview
 
