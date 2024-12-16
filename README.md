@@ -30,7 +30,7 @@ The UBIP lifecycle consists of the following stages:
 
 #### **Stage: `Proposal`**
 
-- The author drafts the UBIP using the provided template and submits it as a GitHub issue.
+- The author drafts the UBIP using the provided template and submits it as a [GitHub issue](https://github.com/WeTechHK/Universal-BCOS-RFCs/issues/new/choose).
 - Community members engage in discussions to evaluate the proposal’s necessity and feasibility.
 - If the Proposal Reviewer deems the submission valid, it is assigned a unique ID, tagged as `Draft`, and moves to the next stage.
 
